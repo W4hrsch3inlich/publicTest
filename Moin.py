@@ -1,1 +1,2 @@
-print("Moin")
+for(i in range(10)):
+  print("Moin")
